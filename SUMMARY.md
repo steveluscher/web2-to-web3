@@ -12,7 +12,7 @@
 * [🤔 This is all okay, but what on earth is a DAO?](introduction/this-is-all-okay-but-what-on-earth-is-a-dao.md)
 * [💎 My crypto friends keep telling me to buy ETH, does it do all this?](introduction/my-crypto-friends-keep-telling-me-to-buy-eth-does-it-do-all-this.md)
 * [⚡ Ok, What is Solana?](introduction/ok-what-is-solana.md)
-* [🤷♀ 🤷♀ 🤷♀ Great but I can't code, so can I only participate by buying tokens?](introduction/great-but-i-cant-code-so-can-i-only-participate-by-buying-tokens.md)
+* [🤷♀ Great but I can't code, so can I only participate by buying tokens?](introduction/great-but-i-cant-code-so-can-i-only-participate-by-buying-tokens.md)
 * [💰 Did you really just do 10 questions and not talk about BTC?](introduction/did-you-really-just-do-10-questions-and-not-talk-about-btc.md)
 
 ## 📖 Tell me more about DAOs <a href="#dao" id="dao"></a>
