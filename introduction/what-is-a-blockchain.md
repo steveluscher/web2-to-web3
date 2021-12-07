@@ -1,4 +1,4 @@
-# What is blockchain?
+# ⛓ What is blockchain?
 
 An interesting analogy for understanding blockchain is a Google Doc.
 
