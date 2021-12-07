@@ -6,14 +6,16 @@ There are a myriad DAOs that can be divided into different categories based on h
 
 Some of the categories common today include:
 
-- Protocol DAOs
-- Investment DAOs
-- Service DAOs
-- Social DAOs
-- Collector DAOs
-- Media DAOs
+* Protocol DAOs
+* Investment DAOs
+* Service DAOs
+* Social DAOs
+* Collector DAOs
+* Media DAOs
 
 This list by [Cooper Turley](https://twitter.com/Cooopahtroopa) encompasses all kinds of DAOs out there.
+
+![](../.gitbook/assets/a4987b2c-941b-4e52-8525-8fd89d831186.jpeg)
 
 {% embed url="https://bip-assets.s3.eu-west-1.amazonaws.com/blocks/a4987b2c-941b-4e52-8525-8fd89d831186/a4987b2c-941b-4e52-8525-8fd89d831186.jpg" %}
 

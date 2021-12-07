@@ -6,13 +6,13 @@ And the use cases are not limited to just cryptocurrencies, Blockchain right now
 
 ### Smart Contracts
 
-Smart Contracts have to be one of the most popular use cases of the Blockchain. These are basically pieces of code that follow relatively simple commands of "when/if _then___" to ensure that all parties receive the benefits or penalties as the contract stipulates and actions require. It also makes a permanent record of every action and reaction in the transaction that takes place on it.
+Smart Contracts have to be one of the most popular use cases of the Blockchain. These are basically pieces of code that follow relatively simple commands of "when/if _then_\_\_" to ensure that all parties receive the benefits or penalties as the contract stipulates and actions require. It also makes a permanent record of every action and reaction in the transaction that takes place on it.
 
 ### Money Transfer
 
 Who does not love instant money transfers?
 
-The Blockchain enables lightning-fast transactions in real-time. This has already transformed the BFSI sector for good as it saves both time and money (mostly eliminates transaction fees charged by centralised banks/financial institutions).   
+The Blockchain enables lightning-fast transactions in real-time. This has already transformed the BFSI sector for good as it saves both time and money (mostly eliminates transaction fees charged by centralised banks/financial institutions).&#x20;
 
 ### NFTs (Digital Media)
 
@@ -20,7 +20,7 @@ How can you talk about the blockchain and not mention NFTs?
 
 Non-Fungible Tokens are unique pieces of code on the blockchain that represent digital art, music, piece of code and anything and everything you could think of. These can be traded on the blockchain, and provide ownership to the creator of their digital property.
 
-Creators and companies have hopped on the NFT train because it can protect their intellectual property, maintain data integrity, target the right customers, and ensure that artists receive their royalty payments in due time.a 
+Creators and companies have hopped on the NFT train because it can protect their intellectual property, maintain data integrity, target the right customers, and ensure that artists receive their royalty payments in due time.a
 
 ## Here's a video to get you going
 
