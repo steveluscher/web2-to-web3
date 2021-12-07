@@ -23,7 +23,7 @@
 * [👀 Are there different kinds?](dao/are-there-different-kinds.md)
 * [🌏 What are some potential future use cases?](dao/what-are-some-potential-future-use-cases.md)
 * [🔭 How do I find the right one for me?](dao/how-do-i-find-the-right-one-for-me.md)
-* [🙋♀ 🙋♀ But how do I know I can be useful to a DAO?](dao/but-how-do-i-know-i-can-be-useful-to-a-dao.md)
+* [🙋♀ But how do I know I can be useful to a DAO?](dao/but-how-do-i-know-i-can-be-useful-to-a-dao.md)
 * [⚖ What's the legal framework around these communities?](dao/whats-the-legal-framework-around-these-communities.md)
 * [💰 Will I get a DAO token?](dao/will-i-get-a-dao-token.md)
 * [🏗 How do I go about making one of my own?](dao/how-do-i-go-about-making-one-of-my-own.md)
