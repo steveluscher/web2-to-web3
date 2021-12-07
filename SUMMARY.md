@@ -1,13 +1,42 @@
 # Table of contents
 
-* [About](about.md)
+* [About](README.md)
 
-## Web2 to Web3 Introduction
+## Web2 to Web3 Introduction <a href="#introduction" id="introduction"></a>
 
 * [⛓ What is blockchain?](introduction/what-is-a-blockchain.md)
 * [❓ How is it useful ?](introduction/how-is-it-useful.md)
 * [🏗 Okay, so what are people building with this?](introduction/okay-so-what-are-people-building-with-this.md)
 
-## Tell me more about DAOs
+## 📖 Tell me more about DAOs <a href="#dao" id="dao"></a>
 
-* [🤔 So what is a DAO again?](tell-me-more-about-daos/so-what-is-a-dao-again.md)
+* [🤔 So what is a DAO again?](dao/so-what-is-a-dao-again.md)
+* [⌛ How did they even come about?](dao/how-did-they-even-come-about.md)
+* [⁉ Okay but, why are they even relevant?](dao/okay-but-why-are-they-even-relevant.md)
+* [👀 Are there different kinds?](dao/are-there-different-kinds.md)
+* [🌏 What are some potential future use cases?](dao/what-are-some-potential-future-use-cases.md)
+* [🔭 How do I find the right one for me?](dao/how-do-i-find-the-right-one-for-me.md)
+* [🙋♀ But how do I know I can be useful to a DAO?](dao/but-how-do-i-know-i-can-be-useful-to-a-dao.md)
+* [⚖ What's the legal framework around these communities?](dao/whats-the-legal-framework-around-these-communities.md)
+* [💰 Will I get a DAO token?](dao/will-i-get-a-dao-token.md)
+* [🏗 How do I go about making one of my own?](dao/how-do-i-go-about-making-one-of-my-own.md)
+
+## 🖼 Still not sure about NFTs though <a href="#nft" id="nft"></a>
+
+* [⁉ What does NFT even mean?](nft/what-does-nft-even-mean.md)
+* [🤷♀ Okay but can’t I just right-click save anything I want?](nft/okay-but-cant-i-just-right-click-save-anything-i-want.md)
+* [📺 Why are creators so bullish on them?](nft/why-are-creators-so-bullish-on-them.md)
+* [🏗 Do NFTs serve any other purpose as well?](nft/do-nfts-serve-any-other-purpose-as-well.md)
+* [🔭 How do I find the right ones?](nft/how-do-i-find-the-right-ones.md)
+* [📉 What if I get rekt?](nft/what-if-i-get-rekt.md)
+* [🖼 Can I get NFTs on Solana as well?](nft/can-i-get-nfts-on-solana-as-well.md)
+* [🎈 Will NFTs still be around in the future or the bubble will burst?](nft/will-nfts-still-be-around-in-the-future-or-the-bubble-will-burst.md)
+* [🎮 How are NFTs and gaming related?](nft/how-are-nfts-and-gaming-related.md)
+* [🌆 What is the Metaverse?](nft/what-is-the-metaverse.md)
+* [🎨 Oh also, can I create one of my own?](nft/oh-also-can-i-create-one-of-my-own.md)
+
+## 💻 I can code, how do I get started? <a href="#code" id="code"></a>
+
+* [🔌 Connecting to the wallet through JS and identifying the wallet's owner](code/connecting-to-the-wallet-through-js-and-identifying-the-wallets-owner.md)
+* [💸 Sending SOLs through browser JavaScript](code/sending-sols-through-browser-javascript.md)
+* [↔ Integrating authentication, the web3 style](code/integrating-authentication-the-web3-style.md)
