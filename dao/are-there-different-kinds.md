@@ -15,7 +15,7 @@ Some of the categories common today include:
 
 This list by [Cooper Turley](https://twitter.com/Cooopahtroopa) encompasses all kinds of DAOs out there.
 
-{% embed url="https://bip-assets.s3.eu-west-1.amazonaws.com/blocks/a4987b2c-941b-4e52-8525-8fd89d831186/" %}a4987b2c-941b-4e52-8525-8fd89d831186.jpg
+{% embed url="https://bip-assets.s3.eu-west-1.amazonaws.com/blocks/a4987b2c-941b-4e52-8525-8fd89d831186/a4987b2c-941b-4e52-8525-8fd89d831186.jpg" %}
 
 ## Here's a video to get you going
 
