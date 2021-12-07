@@ -30,7 +30,7 @@ Creators and companies have hopped on the NFT train because it can protect their
 
 {% embed url="https://www.notboring.co/p/the-great-online-game" %}
 
-## You can't go long without Crypto TwitterGreenRedBlue
+## You can't go long without Crypto Twitter
 
 {% embed url="https://twitter.com/naval/status/1434586449068756993?s=20" %}
 

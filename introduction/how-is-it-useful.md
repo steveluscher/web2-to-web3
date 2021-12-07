@@ -14,11 +14,11 @@ This means all the products as we know them today can be re-created and improved
 
 {% embed url="https://www.youtube.com/watch?v=DlNDYMNJ5zQ&feature=emb_title" %}
 
-## Here's an article for a complete deep diveGreenRedBlue
+## Here's an article for a complete deep dive
 
 {% embed url="https://balajis.com/add-crypto-to-indiastack/" %}
 
-## You can't go long without Crypto TwitterGreenRedBlue
+## You can't go long without Crypto Twitter
 
 {% embed url="https://twitter.com/NandanNilekani/status/1380811992190001152?s=20" %}
 
