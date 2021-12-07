@@ -16,11 +16,11 @@ Learn about Solana and how it works from its founder, Anatoly, in the video belo
 
 {% embed url="https://www.youtube.com/watch?v=rywOYfGu4EA&feature=emb_title" %}
 
-## Here's an article for a complete deep diveGreenRedBlue
+## Here's an article for a complete deep dive
 
 {% embed url="https://www.coinbase.com/learn/crypto-basics/what-is-solana" %}
 
-## You can't go long without Crypto TwitterGreenRedBlue
+## You can't go long without Crypto Twitter
 
 {% embed url="https://twitter.com/kashdhanda/status/1444882361414344704?s=20" %}
 

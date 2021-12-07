@@ -18,13 +18,13 @@ Learn about Ethereum and how it works using the resources below!
 
 {% embed url="https://www.youtube.com/watch?v=jxLkbJozKbY&feature=emb_title" %}
 
-## Here's an article for a complete deep diveGreenRedBlue
+## Here's an article for a complete deep dive
 
 {% embed url="https://medium.com/@micheledaliessi/what-is-ethereum-f4c5e566ff77" %}
 
 {% embed url="https://www.notboring.co/p/own-the-internet" %}
 
-## You can't go long without Crypto TwitterGreenRedBlue
+## You can't go long without Crypto Twitter
 
 {% embed url="https://twitter.com/businessbarista/status/1425476415064092675?s=20" %}
 

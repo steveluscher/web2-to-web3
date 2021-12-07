@@ -26,11 +26,11 @@ This applies to Bitcoin as well. Bitcoin has a definite supply of 21 Million BTC
 
 {% embed url="https://www.youtube.com/watch?v=BrMJVVR4X7w" %}
 
-## Here's an article for a complete deep diveGreenRedBlue
+## Here's an article for a complete deep dive
 
 {% embed url="https://bariweiss.substack.com/p/is-bitcoin-anarchy-or-civilization" %}
 
-## You can't go long without Crypto TwitterGreenRedBlue
+## You can't go long without Crypto Twitter
 
 {% embed url="https://twitter.com/saylor/status/1392904263123283975" %}
 

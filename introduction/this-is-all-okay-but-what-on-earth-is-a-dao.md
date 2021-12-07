@@ -4,9 +4,9 @@ In the world of web3, they say if 2021 was the year of NFTs, 2022 will be the ye
 
 **A DAO is often described as sort of a “Reddit community with a bank account.**
 
-> It's **Decentralised** in nature, meaning no individual singlehandedly takes a decision.GreenRedBlue
+> It's **Decentralised** in nature, meaning no individual singlehandedly takes a decision.
 
->It's **Autonomous in nature**, meaning it has its own set of pre-decided rules and is usually backed by a smart contract and a treasury to function.GreenRedBlue
+>It's **Autonomous in nature**, meaning it has its own set of pre-decided rules and is usually backed by a smart contract and a treasury to function.
 
 >It's an **Organisation**, just like conventional organisations and companies, people come together with different expertise and work towards a common objective.
 
@@ -16,11 +16,11 @@ DAOs are posed to change the way people work at organisations forever. No CVs re
 
 {% embed url="https://www.youtube.com/watch?v=dZ4o6wma4js&feature=emb_title" %}
 
-## Here's an article for a complete deep diveGreenRedBlue
+## Here's an article for a complete deep dive
 
 {% embed url="https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o" %}
 
-## You can't go long without Crypto TwitterGreenRedBlue
+## You can't go long without Crypto Twitter
 
 {% embed url="https://twitter.com/petergyang/status/1447605297808232448" %}
 

@@ -10,13 +10,13 @@ The promise of DeFi is that monetary policy is codified, access is permissionles
 
 {% embed url="https://www.youtube.com/watch?v=H-O3r2YMWJ4&feature=emb_title" %}
 
-## Here's an article for a complete deep diveGreenRedBlue
+## Here's an article for a complete deep dive
 
 {% embed url="https://www.coindesk.com/learn/what-is-defi/" %}
 
 {% embed url="https://newsletter.thedefiant.io/p/the-defiants-definitive-guide-to" %}
 
-## You can't go long without Crypto TwitterGreenRedBlue
+## You can't go long without Crypto Twitter
 
 {% embed url="https://twitter.com/PaulRBerg/status/1284051109804466176?s=20" %}
 
