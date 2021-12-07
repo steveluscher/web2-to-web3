@@ -4,7 +4,7 @@
 
 ## Web2 to Web3 Introduction <a href="#introduction" id="introduction"></a>
 
-* [⛓ What is blockchain?](introduction/what-is-a-blockchain.md)
+* [⛓ What is a blockchain?](introduction/what-is-a-blockchain.md)
 * [❓ How is it useful ?](introduction/how-is-it-useful.md)
 * [🏗 Okay, so what are people building with this?](introduction/okay-so-what-are-people-building-with-this.md)
 
