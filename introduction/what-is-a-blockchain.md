@@ -1,9 +1,14 @@
 ---
 description: >-
-  Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+  Contributors: [@rajkaria](https://github.com/rajkaria),
+  [@paarug](https://github.com/paarug)
 ---
 
 # ⛓ What is a blockchain?
+
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
 
 An interesting analogy for understanding blockchain is a Google Doc.
 
