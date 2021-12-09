@@ -1,8 +1,14 @@
 # About Ground Zero
 
-Ground Zero is a project by members of [Superteam DAO](https://superteam.fun) to help people learn about the crypto ecosystem for free. We accomplish this by curating info about various topics which include videos, articles, tweets with a quick summary - all freely available to the public.
+Ground Zero is a project by members of [Superteam DAO](https://superteam.fun) to help people learn about the basics of the crypto ecosystem for free.
 
-## About Superteam DAO
+We accomplish this by curating info about various topics with a quick summary, which includes videos, articles & tweets to help you understand the basics of the topic- all freely available to the public.
+
+### Core Contributors
+
+This document is a team effort & would not have been possible without these team members of [Superteam DAO](https://superteam.fun) - [@paarug](https://github.com/paarug), [@rajkaria](https://github.com/rajkaria), [@namanchordia](https://github.com/namanchordia) & [@mohitchawdhry5716](https://github.com/mohitchawdhry5716).
+
+### About Superteam DAO
 
 ![](<.gitbook/assets/61a87356101a9ef9bcf3d3a5\_superteam (1).png>)
 
