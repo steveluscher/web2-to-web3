@@ -1,6 +1,6 @@
 # 🔌 Connecting to the wallet through JS and identifying the wallet's owner
 
-<image>
+![](../.gitbook/assets/code-1.png)
 
 1. User visits the website, at this point the wallet extension injects code into the window object so that the website's code can connect and interact with the wallet to get the wallet's details, perform actions, etc.
 2. As soon as the user clicks the connect button, the JavaScript code in the front-end prompts the wallet to get an approval from the user to connect to that website.
@@ -10,14 +10,14 @@
 
 While this example only includes code for Phantom and SolFlare, the process is pretty similar for other wallets as well.
 
-```
+```javascript
 // exportWallet.ts
 export const getWallet = () => window.solana || window.solflare
 ```
 
 Now that we have the wallet exported, we can import it into our other files for us to utilize it.
 
-```
+```javascript
 // wallet.ts
 import { getWallet } from './exportWallet.ts'
 

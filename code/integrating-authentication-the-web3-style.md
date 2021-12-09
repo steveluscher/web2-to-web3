@@ -2,7 +2,7 @@
 
 In this tutorial, let's see how we can make an authentication system with a normal back-end server and the user's wallet.
 
-<image>
+![](../.gitbook/assets/code-2.png)
 
 Here's the entire flow-chart, we will go through each one of them:
 

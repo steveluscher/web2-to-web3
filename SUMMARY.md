@@ -12,7 +12,7 @@
 * [🤔 This is all okay, but what on earth is a DAO?](introduction/this-is-all-okay-but-what-on-earth-is-a-dao.md)
 * [💎 My crypto friends keep telling me to buy ETH, does it do all this?](introduction/my-crypto-friends-keep-telling-me-to-buy-eth-does-it-do-all-this.md)
 * [⚡ Ok, What is Solana?](introduction/ok-what-is-solana.md)
-* [🤷♀ Great but I can't code, so can I only participate by buying tokens?](introduction/great-but-i-cant-code-so-can-i-only-participate-by-buying-tokens.md)
+* [🤷♀ 🤷♀ Great but I can't code, so can I only participate by buying tokens?](introduction/great-but-i-cant-code-so-can-i-only-participate-by-buying-tokens.md)
 * [💰 Did you really just do 10 questions and not talk about BTC?](introduction/did-you-really-just-do-10-questions-and-not-talk-about-btc.md)
 
 ## 📖 Tell me more about DAOs <a href="#dao" id="dao"></a>
@@ -23,7 +23,7 @@
 * [👀 Are there different kinds?](dao/are-there-different-kinds.md)
 * [🌏 What are some potential future use cases?](dao/what-are-some-potential-future-use-cases.md)
 * [🔭 How do I find the right one for me?](dao/how-do-i-find-the-right-one-for-me.md)
-* [🙋♀ But how do I know I can be useful to a DAO?](dao/but-how-do-i-know-i-can-be-useful-to-a-dao.md)
+* [🙋♀ 🙋♀ But how do I know I can be useful to a DAO?](dao/but-how-do-i-know-i-can-be-useful-to-a-dao.md)
 * [⚖ What's the legal framework around these communities?](dao/whats-the-legal-framework-around-these-communities.md)
 * [💰 Will I get a DAO token?](dao/will-i-get-a-dao-token.md)
 * [🏗 How do I go about making one of my own?](dao/how-do-i-go-about-making-one-of-my-own.md)
@@ -31,7 +31,7 @@
 ## 🖼 Still not sure about NFTs though <a href="#nft" id="nft"></a>
 
 * [⁉ What does NFT even mean?](nft/what-does-nft-even-mean.md)
-* [🤷♀ 🤷♀ 🤷♀ 🤷♀ 🤷♀ Okay but can’t I just right-click save anything I want?](nft/okay-but-cant-i-just-right-click-save-anything-i-want.md)
+* [🤷♀ 🤷♀ 🤷♀ 🤷♀ 🤷♀ 🤷♀ Okay but can’t I just right-click save anything I want?](nft/okay-but-cant-i-just-right-click-save-anything-i-want.md)
 * [📺 Why are creators so bullish on them?](nft/why-are-creators-so-bullish-on-them.md)
 * [🏗 Do NFTs serve any other purpose as well?](nft/do-nfts-serve-any-other-purpose-as-well.md)
 * [🔭 How do I find the right ones?](nft/how-do-i-find-the-right-ones.md)

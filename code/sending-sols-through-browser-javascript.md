@@ -4,19 +4,19 @@ Now that we have figured out how to connect the wallet to our website. Let's see
 
 Prerequisites:
 
-```
+```javascript
 yarn add @solana/web3.js
 ```
 
 OR
 
-```
+```javascript
 npm i @solana/web3.js
 ```
 
 Let's import some constructors from this module:
 
-```
+```javascript
 // wallet.ts
 
 import {
@@ -29,13 +29,13 @@ import {
 
 If you're coming from the last article, you know that we have a file that exports the user's wallet and a method that connects to the wallet in this file itself, if you've missed that I highly recommend that you check out the last article. So let's import the getWallet function in this file.
 
-```
+```javascript
 import { getWallet } from './exportWallet.ts'
 ```
 
 We now have everything we need, let's create a function to send SOLs.
 
-```
+```javascript
 export const sendMoney = async (to: PublicKey, amount: number) => {
   const wallet = getWallet()
   const sender = connectWallet()
@@ -84,7 +84,7 @@ export const sendMoney = async (to: PublicKey, amount: number) => {
 
 Now we can utilize this function anywhere in our working directory. There are
 
-```
+```javascript
 import { sendMoney } from './wallet.ts'
 import { PublicKey } from '@solana/web3.js'
 
