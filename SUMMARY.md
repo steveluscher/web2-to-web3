@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [About Ground Zero](README.md)
 * [💡 Introduction](introduction/README.md)
   * [⛓ What is a blockchain?](introduction/what-is-a-blockchain.md)
   * [❓ How is it useful ?](introduction/how-is-it-useful.md)
