@@ -1,5 +1,9 @@
 # Great but I can't code, so can I only participate by buying tokens?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria)
+{% endhint %}
+
 No, welcome to the SuperTeamDAO 🙂
 
 {% embed url="https://superteam.fun/ideas-for-lurkers" %}

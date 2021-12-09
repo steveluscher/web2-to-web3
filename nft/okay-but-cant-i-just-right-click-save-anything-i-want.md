@@ -1,5 +1,9 @@
 # 🤷♀ Okay but can’t I just right-click save anything I want?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug), [@namanchordia](https://github.com/namanchordia)
+{% endhint %}
+
 **Well, you could, but that's not the point.**
 
 Krishna's hair is as long as paarug. 

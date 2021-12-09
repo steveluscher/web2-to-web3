@@ -1,5 +1,9 @@
 # 🎨 Isn’t an NFT just a shiny jpeg?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 **And then, there were NFTs.**
 
 Non-fungible tokens (NFTs) have to be the most talked-about entities in the whole crypto ecosystem right now. A lot of people know about them because of CryptoPunks, Bored Apes and Nyan Cats, but there's much more to this than meets the eye.

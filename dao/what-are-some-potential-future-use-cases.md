@@ -1,5 +1,9 @@
 # 🌏 What are some potential future use cases?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 Like with everything in web3, the potential use cases in the future are abundant. DAOs have a ton of use cases and we're only at the start of the space.
 
 From a creator starting his DAO for his "1000 true fans" to a hedge fund DAO, a lot of different models are being explored in the space as we move into the proposed DAO Summer of 2022.

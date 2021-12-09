@@ -1,5 +1,9 @@
 # ⁉ Okay but, why are they even relevant?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 *DAOs pose to change the way organisations, as well as individuals, work in the future.*
 
 The concept of an organisation formed by a bunch of individuals around a common goal seems simple but could essentially bridge the gap between the standard employee and the freelancer by giving a person a proportionate say in decision making but also providing the freedom to be a free agent and not bound within a job.

@@ -1,5 +1,9 @@
 # ⌛ How did they even come about?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 Vitalik Buterin was the first to mention Decentralised Autonomous Organisations in the introductory paragraph of the Ethereum Whitepaper. He also wrote a blog on these corporations back in 2013.
 
 Since then, the first organisation to really work on these lines was The DAO which launched in April 2016 as a decentralized venture capital fund. Its members contributed ETH and received DAO tokens in return that could be used for voting on which projects the funds should be allocated to.

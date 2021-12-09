@@ -1,5 +1,9 @@
 # 🙋♀ But how do I know I can be useful to a DAO?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 So you've joined a DAO but now you have no idea how to get involved.
 
 Joining an existing community can be a little overwhelming for a newbie coming in because the members often have relationships formed amongst them by collaborating on projects in the past.

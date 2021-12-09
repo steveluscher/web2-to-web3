@@ -1,5 +1,9 @@
 # 🔭 How do I find the right one for me?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 Like NFTs, the right DAO can be different for different people. The best way to figure out what different communities are doing is to wet your feet in the waters a little and join their Discord/Twitter and see if the DAO's goals and vibes align with yours.
 
 The best part here is that you're never tied to a particular organisation. You have all the freedom to join as many or as few communities as you want, and take up work as much as your bandwidth allows.

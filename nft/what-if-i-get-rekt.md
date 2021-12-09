@@ -1,5 +1,9 @@
 # 📉 What if I get rekt?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 As bullish we are on NFTs as a concept, the reality of the matter is that most of the projects out there are going to fail in the future.
 
 As more and more influencers, companies, celebrities and artists get exposed to this exciting new world, a lot of new projects are going to come up in the future which will end up raising the supply so high and leave the demand down below.

@@ -1,5 +1,9 @@
 # 🎮 How are NFTs and gaming related?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 The Gaming industry has probably gained the most out of the NFT Boom that we've witnessed over the last couple of years.
 
 Games like Axie Infinity and Decentraland have given utility to NFTs and made digital ecosystems around it for players to interact with, just like they do IRL.

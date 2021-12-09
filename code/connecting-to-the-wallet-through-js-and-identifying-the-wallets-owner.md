@@ -1,5 +1,9 @@
 # 🔌 Connecting to the wallet through JS and identifying the wallet's owner
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@kb24x7](https://github.com/kb24x7)
+{% endhint %}
+
 ![](../.gitbook/assets/code-1.png)
 
 1. User visits the website, at this point the wallet extension injects code into the window object so that the website's code can connect and interact with the wallet to get the wallet's details, perform actions, etc.

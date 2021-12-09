@@ -1,5 +1,9 @@
 # 🏗 How do I go about making one of my own?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 If the goal of the DAO you propose to build is set in stone and has a product-market fit, you're definitely gmi. The interesting part here, like any new venture, is that there is no fixed playbook to starting a DAO.
 
 **The best way to learn is by actually starting one.**

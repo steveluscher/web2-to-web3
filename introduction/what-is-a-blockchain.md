@@ -1,9 +1,3 @@
----
-description: >-
-  Contributors: [@rajkaria](https://github.com/rajkaria),
-  [@paarug](https://github.com/paarug)
----
-
 # ⛓ What is a blockchain?
 
 {% hint style="success" %}

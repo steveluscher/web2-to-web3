@@ -1,5 +1,9 @@
 # 💰 Will I get a DAO token?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 **Well, it depends.**
 
 Every DAO has its own set of rules, tokens and tokenomics which govern the hierarchy and the treasury of the DAO.,

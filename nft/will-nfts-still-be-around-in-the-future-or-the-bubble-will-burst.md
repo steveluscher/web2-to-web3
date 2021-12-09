@@ -1,12 +1,16 @@
 # 🎈 Will NFTs still be around in the future or the bubble will burst?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 *NFTs are here to stay.*
 
 While we did say that a lot of projects are most likely going to go to zero, the idea of Non-Fungible Tokens will be a part of our society as long as there is the internet.
 
 [6529](https://twitter.com/punk6529) here gives a good picture of where we're at and where we're headed.
 
-<add-image>
+![](../.gitbook/assets/nfts-journey.png)
 
 NFTs are going to change the way we transact intellectual property digitally as well as physically.
 

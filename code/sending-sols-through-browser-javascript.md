@@ -1,5 +1,9 @@
 # 💸 Sending SOLs through browser JavaScript
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@kb24x7](https://github.com/kb24x7)
+{% endhint %}
+
 Now that we have figured out how to connect the wallet to our website. Let's see how we can create and sign a transaction through the wallets.
 
 Prerequisites:

@@ -1,5 +1,9 @@
 # 🤔 So what is a DAO again?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug), [@namanchordia](https://github.com/namanchordia)
+{% endhint %}
+
 A DAO is often described as sort of a “Reddit community with a bank account.”
 
 In an attempt to formalise this definition, we can say it’s an organisation structured in a way that the control and ownership of its decisions are decentralised and spread out amongst its members through some rules that are enforced on the blockchain.

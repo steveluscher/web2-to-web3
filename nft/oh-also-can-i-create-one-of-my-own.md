@@ -1,5 +1,9 @@
 # 🎨 Oh also, can I create one of my own?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 **Yes, you can!**
 
 Anyone can create an NFT of their own. You could have an NFT for your photographs, videos, audio clips and even blogs and books.

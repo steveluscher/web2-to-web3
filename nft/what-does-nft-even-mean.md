@@ -1,5 +1,9 @@
 # ⁉ What does NFT even mean?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 Before jumping into NFTs or Non-Fungible tokens, let us understand what fungibility is.
 
 "Fungible" means interchangeable.

@@ -1,5 +1,9 @@
 # 📉 What's the deal with DeFi?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria)
+{% endhint %}
+
 Imagine if just like social media allows you to connect with anyone in the world, you could also bank with anyone in the world, i.e. borrow, lend, invest etc. This novel idea is a reality now but it comes with challenges specifically on risk management.
 
 The promise of DeFi is that monetary policy is codified, access is permissionless (just need a wallet)  and execution is automated. This also means that there are many more products/alternatives available for each function which was otherwise performed only by a single entity.

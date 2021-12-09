@@ -1,5 +1,9 @@
 # 🌆 What is the Metaverse?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 Addressing the elephant in the room here.
 
 >Wikipedia defines it as "A collective virtual shared space, created by the convergence of virtually enhanced physical reality and physically persistent virtual space, including the sum of all virtual worlds, augmented reality, and the Internet."

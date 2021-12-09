@@ -1,5 +1,9 @@
 # 🏗 Do NFTs serve any other purpose as well?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 - Artists
 - Gaming
 - Music

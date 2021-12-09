@@ -1,5 +1,9 @@
 # 🤔 This is all okay, but what on earth is a DAO?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 In the world of web3, they say if 2021 was the year of NFTs, 2022 will be the year of DAOs. So better be prepared for it and start with what a DAO even is.
 
 **A DAO is often described as sort of a “Reddit community with a bank account.**

@@ -1,5 +1,9 @@
 # ⚡ Ok, What is Solana?
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@mohitchawdhry5716](https://github.com/mohitchawdhry5716), [@paarug](https://github.com/paarug)
+{% endhint %}
+
 Solana, like Ethereum, is a layer-1 blockchain (L1). An L1 provides the infrastructure or pipelines on which all kinds of dApps, Smart Contracts and decentralized exchanges can be deployed.
 
 But what differentiates Solana from other L1s, especially Ethereum? The answer is speed, cost and resultantly efficiency. As we’ve discussed all blockchains must use some kind of consensus mechanism to validate transactions that occur on-chain. Bitcoin and Ethereum (for now) use a proof of work consensus mechanism, which requires validators to contribute computing power to solve complex mathematical problems or hashes.

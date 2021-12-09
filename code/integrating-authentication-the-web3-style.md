@@ -1,5 +1,9 @@
 # ↔ Integrating authentication, the web3 style
 
+{% hint style="success" %}
+Contributors: [@rajkaria](https://github.com/rajkaria), [@kb24x7](https://github.com/kb24x7)
+{% endhint %}
+
 In this tutorial, let's see how we can make an authentication system with a normal back-end server and the user's wallet.
 
 ![](../.gitbook/assets/code-2.png)
