@@ -27,3 +27,13 @@ For JavaScript:
 If the signature is valid, the Backend does the requested authentication gated action and sends the success response to the Frontend and the Frontend displays a success message.
 
 If we want to reduce friction for the user, the Backend could generate a token for the user after the signature is verified and send it to the Frontend for storing and authorizing actions until the token expires. It would prevent the need for signing a message on every action.
+
+## FAQs
+
+If you have any doubts related to this topic or you have a suggestion, feel free to create an issue [here](https://github.com/SuperteamDAO/ground-zero/issues).
+
+If you want to make edits to this topic or update the topic, please click on the "Edit on Github" link you see on the right section, make the changes and create a pull request to the master branch. One of the moderators will look at your changes & merge your changes if all looks good.
+
+And yes, if you update anything in this topic, don't forget to add your GitHub username in the contributors' list!
+
+Have a happy learning! ✌️
